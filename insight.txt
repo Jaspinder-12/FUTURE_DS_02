@@ -1,13 +1,9 @@
-Key Insights
+Hi, I'm Jaspinder Singh from Punjab, India. I'm currently pursuing a Bachelor's in Computer Science Engineering and have been building projects in AI, Python, and Data Analytics through internships and personal work. I enjoy solving real-world problems with technology and continuously learning new tools.
 
-• Around one-fourth of customers have churned.
+One project I'm proud of is my AI Code Risk Analyzer. It's a Python application that analyzes source code and identifies potential security vulnerabilities, generating structured reports for developers. I built it because I wanted to combine AI and cybersecurity into a practical tool. The hardest part was designing accurate logic and handling different edge cases. If I were to improve it, I'd integrate an LLM to provide smarter explanations and suggested fixes through a web interface.
 
-• Customers with month-to-month contracts are more likely to leave.
+I'm excited about MyGenie because you're solving real business problems with AI instead of building AI just for the sake of it. I enjoy building practical software, learning quickly, and working in environments where I can take ownership and create real impact. I believe this internship would be a great opportunity for me to contribute while growing as an AI developer.
 
-• Fiber optic users show a higher churn rate.
+Thank you for your time.
 
-• Customers using electronic check have higher churn.
-
-• Monthly charges may influence customer churn.
-
-• Customers with longer tenure are more likely to stay.
+This version is short, conversational, and aligns well with what MyGenie says they value: builders, clear communicators, and people who like solving messy real-world problems.
